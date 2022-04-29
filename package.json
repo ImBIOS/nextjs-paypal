@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@paypal/checkout-server-sdk": "^1.0.3",
+    "@paypal/react-paypal-js": "^7.6.0",
+    "@prisma/client": "^3.13.0",
+    "axios": "^0.27.2",
     "next": "12.1.5",
+    "prisma": "^3.13.0",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-query": "^3.38.0"
   },
   "devDependencies": {
     "@types/node": "17.0.30",
